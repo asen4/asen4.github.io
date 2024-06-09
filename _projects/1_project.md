@@ -4,7 +4,7 @@ title: Angry Birds
 description: The game focuses on the eponymous flock of angry birds who try to save their eggs from green-colored pigs.
 img: assets/img/angry-birds.png
 importance: 1
-category: work
+category: fun
 related_publications: true
 ---
 

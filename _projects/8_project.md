@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Tetris
-description: another without an image
-img: assets/img/tetris.jpg
-importance: 4
+title: Nittany Retails
+description: a project with no image
+img: assets/img/nittany-retails.png
+importance: 8
 category: fun
 ---
 

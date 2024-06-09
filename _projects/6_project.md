@@ -3,7 +3,7 @@ layout: page
 title: TalkZone
 description: a project with no image
 img: assets/img/talkzone.png
-importance: 4
+importance: 6
 category: fun
 ---
 

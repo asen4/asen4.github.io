@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Tetris
-description: another without an image
-img: assets/img/tetris.jpg
-importance: 4
+title: Smart Planner
+description: a project with no image
+img: assets/img/smart-planner.jpeg
+importance: 7
 category: fun
 ---
 

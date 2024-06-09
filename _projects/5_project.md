@@ -3,7 +3,7 @@ layout: page
 title: TagOut!
 description: a project with a background image
 img: assets/img/tagout.png
-importance: 3
+importance: 5
 category: fun
 ---
 
