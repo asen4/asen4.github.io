@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Angry Birds
+description: The game focuses on the eponymous flock of angry birds who try to save their eggs from green-colored pigs.
+img: assets/img/angry-birds.png
 importance: 1
 category: work
 related_publications: true

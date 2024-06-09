@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
+title: Tetris
 description: another without an image
-img:
+img: assets/img/tetris.jpg
 importance: 3
 category: fun
 ---
