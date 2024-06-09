@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TagOut!
-description: a project with a background image
+description: TagOut! is a simple and easy-to-use social networking app.
 img: assets/img/tagout.png
 importance: 5
 category: fun

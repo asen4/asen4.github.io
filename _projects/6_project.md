@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TalkZone
-description: a project with no image
+description: TalkZone is ultimately designed to create a better video-calling experience.
 img: assets/img/talkzone.png
 importance: 6
 category: fun

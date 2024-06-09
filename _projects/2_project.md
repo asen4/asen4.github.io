@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Flappy Bird
-description: a project with a background image and giscus comments
+description: Flappy Bird is a mobile game created by Dong Nguyen, where players control a bird by tapping the screen to keep it flying while avoiding obstacles like green pipes. The objective is to navigate the bird through as many gaps as possible without hitting the pipes or falling.
 img: assets/img/flappy-bird.png
 importance: 2
 category: fun

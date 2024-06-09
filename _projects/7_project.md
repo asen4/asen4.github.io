@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Smart Planner
-description: a project with no image
+description: An all-in-one place to view the deadlines of all your upcoming assignments.
 img: assets/img/smart-planner.jpeg
 importance: 7
 category: fun

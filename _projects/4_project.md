@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tetris
-description: another without an image
+description: Tetris is a classic puzzle game created by Alexey Pajitnov, where players arrange falling blocks, known as Tetriminos, to form complete horizontal lines without gaps. Completed lines disappear, earning the player points and preventing the blocks from stacking up to the top of the screen.
 img: assets/img/tetris.jpg
 importance: 4
 category: fun

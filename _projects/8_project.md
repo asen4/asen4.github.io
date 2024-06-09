@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nittany Retails
-description: a project with no image
+description: A retail app for students to buy and sell goods that they don't need anymore.
 img: assets/img/nittany-retails.png
 importance: 8
 category: fun
