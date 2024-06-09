@@ -3,7 +3,6 @@ layout: page
 title: Snake
 description: Snake is a classic arcade game where players control a growing line that resembles a snake, navigating it around the screen to consume food items. Each item eaten causes the snake to grow longer, and the objective is to avoid colliding with the screen's edges or the snake's own body.
 img: assets/img/snake.png
-redirect: https://unsplash.com
 importance: 3
 category: fun
 ---
