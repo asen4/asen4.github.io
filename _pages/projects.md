@@ -2,12 +2,14 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of my cool projects. So far, I have developed a few Android applications and a few clones of some classical games using Pygame, an open-source Python package created for developing video games, from the good ol' days. Please know that the source codes for all these projects are available [here](https://github.com/asen4).
+description: A growing collection of my (cool) projects. So far, I have developed a few Android applications and a few clones of some classical games using Pygame, an open-source Python package created for developing video games, from the good ol' days. Please know that the source codes for all these projects are available [here](https://github.com/asen4).
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
+[here](https://github.com/asen4)
 
 <!-- pages/projects.md -->
 <div class="projects">
