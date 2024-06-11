@@ -9,8 +9,6 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-[here](https://github.com/asen4)
-
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
