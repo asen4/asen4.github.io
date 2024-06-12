@@ -2,7 +2,17 @@ github_users:
   - asen4
 
 github_repos:
+  - asen4/Angry-Birds
+  - asen4/Flappy-Bird
+  - asen4/Flappy-Bird-2.0
   - asen4/Snake
+  - asen4/Tetris
+  - asen4/TagOut
+  - asen4/TalkZone
+  - asen4/TalkZone-2.0
+  - asen4/SmartPlanner
+  - asen4/ign_code_foo_2022
+
   - alshedivat/al-folio
   - twbs/bootstrap
   - jekyll/jekyll
