@@ -24,13 +24,23 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Merck Sharp & Dohme",
+      "position": "2024 Global Data Operations Summer Intern",
+      "url": "https://jobs.merck.com/us/en/global-clinical-trial-operations",
+      "startDate": "2024-06-03",
+      "endDate": "2024-08-02",
+      "summary": 
+        "Global Data Management & Standards (GDMS), Global Data Operations (GDO): Support strategic and operational projects related to process, medical coding, technologies, and data analysis in clinical data management. Working alongside experienced members of the team, the successful candidate will assist with special projects, analyze and evaluate processes, and propose innovative resolutions."
+    },
+
+    {
+      "name": "The Pennsylvania State University",
+      "position": "Part Time — Student — Computer Science Grader & Learning Assistant for CMPSC 132",
+      "url": "https://www.eecs.psu.edu/",
+      "startDate": "2023-01-01",
+      "endDate": "2024-05-01",
+      "summary": 
+        "Assisted my former computer science instructor in mentoring a class of 400+ students in a beginner's level data structures class (CMPSC 132). Administered and proctored exams to create a fair, secure testing environment for all students. Graded students' homework assignments, labs, and exams, providing helpful feedback on areas to improve. Faciliated two recitations of 50 students and held 6 hours of office hours on a weekly basis to clarify concepts and help struggling students achieve mastery of the material."
     }
   ],
   "volunteer": [
@@ -54,8 +64,29 @@
       "studyType": "B.S.",
       "startDate": "2022-08-01",
       "endDate": "2026-05-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": [
+        "Circuits and Devices (EE 210)",
+        "Computer Organization and Design (CMPEN 331)",
+        "Digital Design: Theory and Practice (CMPEN 270)",
+        "Discrete Mathematics for Computer Science (CMPSC 360)", 
+        "General Physics: Electricity and Magnetism (PHYS 212H)",
+        "General Physics: Mechanics (PHYS 211H)",
+        "General Physics: Wave Motion and Quantum Physics (PHYS 214)",
+        "Food Facts and Fads (FDSC 105)",
+        "Honors Calculus and Vector Analysis (MATH 230H)",
+        "Honors Calculus with Analytic Geometry II (MATH 141H)",
+        "Honors Matrices (MATH 220H)",
+        "Introduction to Engineering (ENGR 100)",
+        "Introduction to Systems Programming (CMPSC 311)",
+        "Introductory Sociology (SOC 1)",
+        "Molecular and Cell Biology I (BMB 251H)",
+        "Object Oriented Programming with Web-Based Applications (CMPSC 221)",
+        "Organic Chemistry I (CHEM 210)",
+        "Ordinary Differential Equations (MATH 250)",
+        "Programming and Computation II: Data Structures (CMPSC 132)",
+        "Rhetoric and Civic Life I (CAS 137H)",
+        "Rhetoric and Civic Life II (CAS 138T)"
+      ]
     }
   ],
   "awards": [
