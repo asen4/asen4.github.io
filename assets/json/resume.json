@@ -34,40 +34,6 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
-    {
-      "institution": "The Pennsylvania State University",
-      "location": "Univerisity Park, PA",
-      "url": "https://www.psu.edu/",
-      "area": "Computer Engineering",
-      "studyType": "B.S.",
-      "startDate": "2022-08-01",
-      "endDate": "2026-05-01",
-      "courses": [
-        "Circuits and Devices (EE 210)",
-        "Computer Organization and Design (CMPEN 331)",
-        "Digital Design: Theory and Practice (CMPEN 270)",
-        "Discrete Mathematics for Computer Science (CMPSC 360)", 
-        "General Physics: Electricity and Magnetism (PHYS 212H)",
-        "General Physics: Mechanics (PHYS 211H)",
-        "General Physics: Wave Motion and Quantum Physics (PHYS 214)",
-        "Food Facts and Fads (FDSC 105)",
-        "Honors Calculus and Vector Analysis (MATH 230H)",
-        "Honors Calculus with Analytic Geometry II (MATH 141H)",
-        "Honors Matrices (MATH 220H)",
-        "Introduction to Engineering (ENGR 100)",
-        "Introduction to Systems Programming (CMPSC 311)",
-        "Introductory Sociology (SOC 1)",
-        "Molecular and Cell Biology I (BMB 251H)",
-        "Object Oriented Programming with Web-Based Applications (CMPSC 221)",
-        "Organic Chemistry I (CHEM 210)",
-        "Ordinary Differential Equations (MATH 250)",
-        "Programming and Computation II: Data Structures (CMPSC 132)",
-        "Rhetoric and Civic Life I (CAS 137H)",
-        "Rhetoric and Civic Life II (CAS 138T)"
-      ]
-    }
-  ],
   "awards": [
     {
       "title": "Nobel Prize in Physics",
