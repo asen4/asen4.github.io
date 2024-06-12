@@ -61,7 +61,8 @@
       "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2022-08-01",
-      "endDate": "2026-05-01"
+      "endDate": "2026-05-01",
+      "courses": ["Relativity"]
     }
   ],
   "awards": [
