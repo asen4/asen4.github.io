@@ -1,13 +1,13 @@
 ---
 layout: page
 title: CPU Design & Implementation
-description: Throughout the course of the semester, we were tasked with building and designing a five-stage pipelined CPU. Verilog, a hardware description language, was used to write and program the CPU. In the first three labs, we mainly focused on implementing the five separate stages of the CPU pipelining process: instruction fetch (IF), instruction decode (ID), execution (EX), memory access (MEM), and writeback (WB). In the final project, we updated the instructions from load word instructions to r-type instructions and made some modifications to the Control Unit so that it could generate the appropriate signals to handle stalls and forwarding to avoid any data hazards and optimize executions as much as possible.
+description: Throughout the course of the semester, we were tasked with building and designing a five-stage pipelined CPU. Verilog, a hardware description language, was used to write and program the CPU. In the first three labs, we mainly focused on implementing the five separate stages of the CPU pipelining process-instruction fetch (IF), instruction decode (ID), execution (EX), memory access (MEM), and writeback (WB). In the final project, we updated the instructions from load word instructions to r-type instructions and made some modifications to the Control Unit so that it could generate the appropriate signals to handle stalls and forwarding to avoid any data hazards and optimize executions as much as possible.
 img: assets/img/nittany-retails.png
 importance: 10
 category: work
 ---
 
-Generally speaking, pipelining allows for increased throughput and decreased response time by executing several instructions in a “staggered” order simultaneously in various stages of the pipeline. This parallel processing technique reduces the response time required to complete a series of instructions, increasing the efficiency of the processor as a result. Moreover, pipelining allows for a higher clock frequency since each of the individual stages can operate simultaneously, or in parallel, that improves the performance of the processor design. 
+ANKUR
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
