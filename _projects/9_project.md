@@ -2,7 +2,7 @@
 layout: page
 title: mdadm Linear Device
 description: mdadm Library for Linear Devices
-img: assets/img/nittany-retails.png
+img: assets/img/linux.png
 importance: 9
 category: work
 ---
