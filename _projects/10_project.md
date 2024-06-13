@@ -7,7 +7,7 @@ importance: 10
 category: work
 ---
 
-ANKUR
+Generally speaking, pipelining allows for increased throughput and decreased response time by executing several instructions in a “staggered” order simultaneously in various stages of the pipeline. This parallel processing technique reduces the response time required to complete a series of instructions, increasing the efficiency of the processor as a result. Moreover, pipelining allows for a higher clock frequency since each of the individual stages can operate simultaneously, or in parallel, that improves the performance of the processor design. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
