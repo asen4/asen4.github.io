@@ -38,7 +38,7 @@ categories: fun-posts
             {% include figure.liquid path="assets/img/java-a-comprehensive-guide-part-i.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             
             <div class="caption">
-                <i>Java: A Comprehensive Guide (Part I)</i>
+                <a href="https://www.amazon.com/gp/product/B0B9ZB8Z17/ref=dbs_a_def_rwt_bibl_vppi_i1">Java: A Comprehensive Guide (Part I)</a>
             </div>
         </div>
     </div>
@@ -47,7 +47,7 @@ categories: fun-posts
             {% include figure.liquid path="assets/img/java-a-comprehensive-guide-part-ii.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             
             <div class="caption">
-                <i>Java: A Comprehensive Guide (Part II)</i>
+                <a href="https://www.amazon.com/gp/product/B0B9ZLJ42B/ref=dbs_a_def_rwt_bibl_vppi_i0">Java: A Comprehensive Guide (Part II)</a>
             </div>
         </div>
     </div>
