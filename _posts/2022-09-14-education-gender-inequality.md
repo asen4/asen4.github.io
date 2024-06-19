@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today’s Education & Gender Inequality Comments (from Gina’s Elevator Pitch)
+title: Today's Education & Gender Inequality Comments (from Gina's Elevator Pitch)
 date: 2022-09-14 0:00:00
 tags: education gender-inequality
 categories: civil-issues
