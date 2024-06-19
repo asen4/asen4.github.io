@@ -32,12 +32,12 @@ categories: civil-issues
         <li>Show how we are essentially “hiding” behind a mask and trying to ignore the devastating effects of climate change.</li>
         <li>Show how underneath the ground lives a factor-like and industrial setting that reflects the future of the world.</li>
     </ul>
-        
+
     <b>Body Paragraph</b>
     <ul>
         <li>Discuss the intersection of artificial intelligence (AI) and climate change and how it can be used to alleviate the effects of the issue (maybe consider mentioning something about AI in the introduction paragraph).</li>
     </ul>
-        
+
     <b>Conclusion Paragraph</b>
     <ul>
         <li>End with something along the lines of “what can we do?” or “how will we take action against this issue in the future?” or “are we moving at a slow pace?”</li>
