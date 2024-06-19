@@ -6,7 +6,7 @@ tags: education gender-inequality
 categories: civil-issues
 ---
 
-<div class="row mt-3">
+<div>
 
     <p>Depriving one of a higher and quality education deprives them of one of their fundamental rights. As Gina explained in her elevator pitch, education quality indirectly affects gender equality and reduces inequality and poverty, which was especially true during the COVID-19 pandemic.</p>
 
