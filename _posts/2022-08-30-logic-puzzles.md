@@ -6,7 +6,7 @@ tags: puzzles riddles
 categories: fun-posts
 ---
 
-<div>
+<div class="row mt-3">
 
     <i>There was a plane crash and every single person died. Who survived?</i>
 
