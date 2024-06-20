@@ -5,6 +5,7 @@ date: 2022-08-30 0:00:00
 tags: puzzles riddles
 categories: fun-posts
 thumbnail: assets/img/logic-puzzles.jpg
+featured: true
 ---
 
 <div>
