@@ -4,6 +4,7 @@ title: Smart Planner&#58; A New Digital Student Planner Application
 date: 2022-10-26 0:00:00
 tags: android app organizational-needs planner smart-planner
 categories: fun-posts
+thumbnail: assets/img/smart-planner.jpg
 ---
 
 <div>
@@ -22,10 +23,10 @@ categories: fun-posts
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/smart-planner.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/smart-planner-feature-graphic.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 <div class="caption">
-    <i>Smart Planner App Icon</i>
+    <i>Smart Planner Feature Graphic</i>
 </div>

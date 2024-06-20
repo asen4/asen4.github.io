@@ -2,8 +2,8 @@
 layout: post
 title: Civic Artifacts Speeches’ Comments
 date: 2022-10-11 0:00:00
-tags: civil-artifacts
-categories: civil-issues
+tags: civic-artifacts
+categories: civic-issues
 ---
 
 <div>

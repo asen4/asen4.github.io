@@ -3,7 +3,8 @@ layout: post
 title: The Reality of Climate Change
 date: 2022-08-30 0:00:00
 tags: climate-change
-categories: civil-issues
+categories: civic-issues
+thumbnail: assets/img/climate-change-hourglass.webp
 ---
 
 <div>

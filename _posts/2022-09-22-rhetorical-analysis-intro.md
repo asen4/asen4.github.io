@@ -3,7 +3,7 @@ layout: post
 title: Introduction of Rhetoric Analysis Essay & Brief Outline
 date: 2022-09-22 0:00:00
 tags: climate-change rhetorical-analysis
-categories: civil-issues
+categories: civic-issues
 ---
 
 <div>

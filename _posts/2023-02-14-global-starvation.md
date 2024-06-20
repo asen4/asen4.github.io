@@ -3,7 +3,7 @@ layout: post
 title: Is global starvation on the horizon?
 date: 2023-02-14 0:00:00
 tags: global-hunger
-categories: civil-issues
+categories: civic-issues
 ---
 
 <div>

@@ -3,7 +3,7 @@ layout: post
 title: TED Talk Slideshow
 date: 2022-11-02 0:00:00
 tags: ted-talk
-categories: civil-issues
+categories: other
 ---
 
 <div>

@@ -3,7 +3,8 @@ layout: post
 title: My Favorite TED Talk & Unit Two Project Ideas
 date: 2022-10-19 0:00:00
 tags: ted-talk
-categories: civil-issues
+categories: other
+
 ---
 
 <div>
@@ -13,6 +14,8 @@ categories: civil-issues
     <p>As for my Unit Two project, I was considering talking about the evolution of the word ‘pandemic’ and if we have prepared or taken any action in fighting pandemics within the past few decades. In the past few years, has anybody ever given warnings to the entire world, in anticipation of another impending global outbreak (like Gates did in 2015)? I would use the Gale Virtual Reference Library to track the evolution of the word ‘pandemic’ and how it’s definition has changed within the past few years. Alternatively, I was considering looking into the evolution of the climate change crisis and researching what actions we have taken to combat the issue. Besides transitioning to electric vehicles, installing solar panels, and researching innovating techniques to cool the Earth, what other meaningful contributions have we made that are sometimes overlooked today? At what rate have we worsened the situation in the past few years? These are some simple questions to consider that could be a part of my research in determining the evolution of the climate change crisis.</p>
 
 </div>
+
+<hr>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

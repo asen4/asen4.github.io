@@ -3,7 +3,8 @@ layout: post
 title: Constitution Day&#58; Key Takeaways
 date: 2022-09-26 0:00:00
 tags: constitution constitution-day
-categories: civil-issues
+categories: other
+thumbnail: assets/img/constitution-day.jpg
 ---
 
 <div>

@@ -3,7 +3,8 @@ layout: post
 title: A Current View of the Ongoing Impacts of the COVID-19 Pandemic
 date: 2023-01-31 0:00:00
 tags: covid19 covid19-impacts
-categories: civil-issues
+categories: civic-issues
+thumbnail: assets/img/covid19-1.jpg
 ---
 
 <div>
@@ -22,7 +23,7 @@ categories: civil-issues
 
     <hr>
 
-    <p>“Coronavirus Disease 2019 (Covid-19).” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 19 Dec. 2022, https://www.cdc.gov/dotw/covid-19/index.html.</p>
+    <p>“Coronavirus Disease 2019 (Covid-19).” <i>Centers for Disease Control and Prevention</i>, Centers for Disease Control and Prevention, 19 Dec. 2022, https://www.cdc.gov/dotw/covid-19/index.html.</p>
 
 </div>
 

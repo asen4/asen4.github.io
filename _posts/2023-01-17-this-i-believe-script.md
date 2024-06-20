@@ -3,7 +3,7 @@ layout: post
 title: "This I Believe" Draft
 date: 2023-01-17 0:00:00
 tags: arduino challenges step-outside-of-comfort-zone
-categories: civil-issues
+categories: civic-issues
 ---
 
 <div>

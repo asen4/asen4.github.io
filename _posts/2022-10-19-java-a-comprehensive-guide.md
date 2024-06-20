@@ -4,6 +4,7 @@ title: Freewriting is like solving a puzzle!
 date: 2022-10-19 0:00:00
 tags: java java-a-comprehensive-guide
 categories: fun-posts
+thumbnail: assets/img/java-a-comprehensive-guide-part-i.jpg
 ---
 
 <div>

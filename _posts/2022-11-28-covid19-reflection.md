@@ -3,7 +3,8 @@ layout: post
 title: Post COVID-19 Pandemic&#58; A Reflection of the Current State of the World
 date: 2022-11-28 0:00:00
 tags: covid19 reflection
-categories: civil-issues
+categories: civic-issues
+thumbnail: assets/img/covid19-2.jpg
 ---
 
 <div>

@@ -3,7 +3,7 @@ layout: post
 title: Rhetorical Analysis Essay & Speech Outline
 date: 2022-10-05 0:00:00
 tags: climate-change rhetorical-analysis
-categories: civil-issues
+categories: civic-issues
 ---
 
 <div>

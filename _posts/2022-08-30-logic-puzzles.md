@@ -4,6 +4,7 @@ title: Logic Puzzles&#58; The Roots of My Interests
 date: 2022-08-30 0:00:00
 tags: puzzles riddles
 categories: fun-posts
+thumbnail: assets/img/logic-puzzles.jpg
 ---
 
 <div>

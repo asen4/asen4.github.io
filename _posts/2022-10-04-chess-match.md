@@ -4,6 +4,7 @@ title: Chess&#58; The Deathmatch
 date: 2022-10-04 0:00:00
 tags: chess chess-match deathmatch
 categories: fun-posts
+thumbnail: assets/img/chess.jpg
 ---
 
 <div>

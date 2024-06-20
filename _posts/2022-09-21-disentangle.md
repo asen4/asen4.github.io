@@ -4,6 +4,7 @@ title: Disentanglement Puzzles&#58; “Disentangle the Fun”
 date: 2022-09-21 0:00:00
 tags: disentangle metal-wire-puzzles puzzles
 categories: fun-posts
+thumbnail: assets/img/disentangle.jpeg
 ---
 
 <div>

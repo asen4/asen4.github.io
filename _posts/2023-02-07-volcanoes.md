@@ -4,6 +4,7 @@ title: How do volcanoes make lightning?
 date: 2023-02-07 0:00:00
 tags: volcanoes
 categories: natural-phenomena
+thumbnail: assets/img/volcanoes.jpeg
 ---
 
 <div>
@@ -20,7 +21,7 @@ categories: natural-phenomena
 
     <hr>
 
-    <p>“Volcanic Lightning Happens at the Beginning of a Volcanic Eruption.” Discovery, https://www.discovery.com/science/volcanic-lightning-happens-at-the-beginning-of-a-volcanic-erupti.</p>
+    <p>“Volcanic Lightning Happens at the Beginning of a Volcanic Eruption.” <i>Discovery</i>, https://www.discovery.com/science/volcanic-lightning-happens-at-the-beginning-of-a-volcanic-erupti.</p>
 
 </div>
 

@@ -3,7 +3,7 @@ layout: post
 title: Ideas for History of a Public Controversy Project
 date: 2022-11-16 0:00:00
 tags: history-of-a-public-controversy-project
-categories: civil-issues
+categories: civic-issues
 ---
 
 <div>

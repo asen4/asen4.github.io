@@ -4,6 +4,7 @@ title: Jigsaw Puzzles&#58; A Manifestation of My Childhood
 date: 2022-09-08 0:00:00
 tags: jigsaw-puzzles
 categories: fun-posts
+thumbnail: assets/img/jigsaw-puzzle.jpg
 ---
 
 <div>

@@ -3,7 +3,8 @@ layout: post
 title: Ocean Acidification&#58; The New Threat on the Horizon
 date: 2022-09-08 0:00:00
 tags: oceans ocean-acidification
-categories: civil-issues
+categories: civic-issues
+thumbnail: assets/img/ocean-acidification.jpg
 ---
 
 <div>
