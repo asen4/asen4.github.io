@@ -5,6 +5,7 @@ date: 2023-03-13 0:00:00
 tags: climate-change climate-change-crisis global-warming
 categories: civic-issues
 thumbnail: assets/img/climate-change-crisis.jpg
+featured: true
 ---
 
 <div>
