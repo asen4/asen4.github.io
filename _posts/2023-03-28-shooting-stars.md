@@ -5,7 +5,6 @@ date: 2023-03-28 0:00:00
 tags: shooting-stars
 categories: natural-phenomena
 thumbnail: assets/img/shooting-stars.jpg
-
 ---
 
 <div>

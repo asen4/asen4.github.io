@@ -4,7 +4,6 @@ title: My Favorite TED Talk & Unit Two Project Ideas
 date: 2022-10-19 0:00:00
 tags: ted-talk
 categories: other
-
 ---
 
 <div>

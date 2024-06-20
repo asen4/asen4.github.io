@@ -5,7 +5,6 @@ date: 2023-04-19 0:00:00
 tags: act college-board sat standardized-testing test-optional
 categories: civic-issues
 thumbnail: assets/img/test-optional-policy.jpg
-
 ---
 
 <div>
