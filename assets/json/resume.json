@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Anubhav Sen",
-    "label": "Global Data Operations Intern @ Merck | Computer Engineering Student",
+    "label": "Global Data Operations Intern @ Merck | Computer Engineering Junior Student",
     "image": "",
     "email": "asencollege4@gmail.com",
     "url": "https://asen4.github.io",
@@ -49,7 +49,7 @@
       "studyType": "B.S.",
       "startDate": "2022-08-01",
       "endDate": "2026-05-01",
-      "courses": ["Relativity"]
+      "courses": ["Circuits and Devices (EE 210)", "Computer Organization and Design (CMPEN 331)", "Digital Design: Theory and Practice (CMPEN 270)", "Discrete Mathematics for Computer Science (CMPSC 360)", "General Physics: Electricity and Magnetism (PHYS 212H)", "General Physics: Mechanics (PHYS 211H)", "General Physics: Wave Motion and Quantum Physics (PHYS 214)", "Food Facts and Fads (FDSC 105)", "Honors Calculus and Vector Analysis (MATH 230H)", "Honors Calculus with Analytic Geometry II (MATH 141H)", "Honors Matrices (MATH 220H)", "Introduction to Engineering (ENGR 100)", "Introduction to Systems Programming (CMPSC 311)", "Introductory Sociology (SOC 1)", "Molecular and Cell Biology I (BMB 251H)", "Object Oriented Programming with Web-Based Applications (CMPSC 221)", "Organic Chemistry I (CHEM 210)", "Ordinary Differential Equations (MATH 250)", "Programming and Computation II: Data Structures (CMPSC 132)", "Rhetoric and Civic Life I (CAS 137H)", "Rhetoric and Civic Life II (CAS 138T)"]
     },
     {
       "institution": "Methacton High School",
@@ -91,71 +91,20 @@
       "summary": "An annual, district-specific challenge to create and submit your own original apps. Each winning app is put on display in the U.S. Capitol Building for a year. For this challenge, I entered my previously-developed Android app TalkZone."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Java: A Comprehensive Guide (Part I)",
+      "publisher": "Kindle Direct Publishing",
+      "releaseDate": "2022-08-16",
+      "url": "https://www.amazon.com/gp/product/B0B9ZB8Z17/ref=dbs_a_def_rwt_bibl_vppi_i1",
+      "summary": " Learning the ins and outs of a new language is no easy task especially when it's an object-oriented computer programming language like Java: hundreds of unfamiliar concepts and rules and words, an entirely different structure than that of our everyday spoken language, not to mention the high potential for embarrassment are enough to intimidate many of us. But don't worry — that's why I wrote this guide for people like you. Consisting of a detailed, foundational Java module and several practice problems on each topic, Java: A Comprehensive Guide is ideal for any student (or curious learner) interested in learning more about Java, studying before a final exam, or even preparing for a coding interview at a software company. A rigorous technical treatment, this book includes topics such as primary data structures, conditional statements, loops, arrays, graphics, interfaces, trees, sets, maps, and much more!"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Java: A Comprehensive Guide (Part II)",
+      "publisher": "Kindle Direct Publishing",
+      "releaseDate": "2022-08-16",
+      "url": "https://www.amazon.com/gp/product/B0B9ZLJ42B/ref=dbs_a_def_rwt_bibl_vppi_i0",
+      "summary": " Learning the ins and outs of a new language is no easy task especially when it's an object-oriented computer programming language like Java: hundreds of unfamiliar concepts and rules and words, an entirely different structure than that of our everyday spoken language, not to mention the high potential for embarrassment are enough to intimidate many of us. But don't worry — that's why I wrote this guide for people like you. Consisting of a detailed, foundational Java module and several practice problems on each topic, Java: A Comprehensive Guide is ideal for any student (or curious learner) interested in learning more about Java, studying before a final exam, or even preparing for a coding interview at a software company. A rigorous technical treatment, this book includes topics such as primary data structures, conditional statements, loops, arrays, graphics, interfaces, trees, sets, maps, and much more!"
     }
   ],
   "skills": [
