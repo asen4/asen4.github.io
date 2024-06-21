@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Anubhav Sen",
-    "label": "Aspiring Computer Engineer",
+    "label": "Global Data Operations Intern @ Merck | Computer Engineering Student",
     "image": "",
     "email": "asencollege4@gmail.com",
     "url": "https://asen4.github.io",
@@ -40,37 +40,55 @@
       "summary": "Assisted my former computer science instructor in mentoring a class of 400+ students in a beginner's level data structures class (CMPSC 132). Administered and proctored exams to create a fair, secure testing environment for all students. Graded students' homework assignments, labs, and exams, providing helpful feedback on areas to improve. Faciliated two recitations of 50 students and held 6 hours of office hours on a weekly basis to clarify concepts and help struggling students achieve mastery of the material."
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
       "institution": "The Pennsylvania State University",
       "location": "Univerisity Park, PA",
-      "url": "https://www.psu.edu/",
+      "url": "https://www.psu.edu",
       "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2022-08-01",
       "endDate": "2026-05-01",
       "courses": ["Relativity"]
+    },
+    {
+      "institution": "Methacton High School",
+      "location": "Eagleville PA",
+      "url": "https://www.methacton.org/Domain/8",
+      "studyType": "High School Diploma",
+      "startDate": "2018-09-01",
+      "endDate": "2022-06-12",
+      "courses": ["AP Capstone Seminar", "AP English Literature and Composition", "AP English Language and Composition", "AP Human Geography", "AP Calculus AB", "AP Computer Science A", "AP Statistics", "AP Biology", "AP Chemistry", "AP Physics C: Mechanics"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Student Engagement Network (SEN) Grant Awardee",
+      "date": "2023-09-14",
+      "awarder": "The Pennsylvania State University",
+      "url": "https://sen.psu.edu",
+      "summary": "The SEN grant program is a competitive program aimed at providing funding for students who wish to learn outside the classroom, either by studying abroad, spearheading their own initiative, etc. With this program, I received funding for $2,000 to help with popularizing Nittany Retails around our campus. (Please be aware that the app is currently down from the app stores because of improvements that I'm making right now after talking with some students who downloaded the app before.)"
+    },
+    {
+      "title": "The President Walker Award",
+      "date": "2023-02-16",
+      "awarder": "The Pennsylvania State University",
+      "url": "https://awardsrecognition.psu.edu/student/undergraduate-scholastic-awards",
+      "summary": "Awarded to undergraduate students who have earned a 4.0 cumulative grade-point average based on at least 12 credits completed during their first semester."
+    },
+    {
+      "title": "AP Scholar with Distinction",
+      "date": "2022-07-15",
+      "awarder": "College Board",
+      "url": "https://apcentral.collegeboard.org/exam-administration-ordering-scores/scores/awards/scholar-awards",
+      "summary": "\"Granted to students who receive an average score of at least 3.5 on all AP Exams taken, and scores of 3 or higher on five or more of these exams.\""
+    },
+    {
+      "title": "2021 Congressional App Challenge",
+      "date": "2022-01-01",
+      "awarder": "U.S. Congress",
+      "url": "https://www.congressionalappchallenge.us",
+      "summary": "An annual, district-specific challenge to create and submit your own original apps. Each winning app is put on display in the U.S. Capitol Building for a year. For this challenge, I entered my previously-developed Android app TalkZone."
     }
   ],
   "certificates": [
@@ -157,13 +175,18 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Native Speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Bengali",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate Proficiency",
       "icon": ""
     }
   ],
@@ -179,18 +202,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
