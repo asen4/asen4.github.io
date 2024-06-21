@@ -49,7 +49,29 @@
       "studyType": "B.S.",
       "startDate": "2022-08-01",
       "endDate": "2026-05-01",
-      "courses": ["Circuits and Devices (EE 210)", "Computer Organization and Design (CMPEN 331)", "Digital Design: Theory and Practice (CMPEN 270)", "Discrete Mathematics for Computer Science (CMPSC 360)", "General Physics: Electricity and Magnetism (PHYS 212H)", "General Physics: Mechanics (PHYS 211H)", "General Physics: Wave Motion and Quantum Physics (PHYS 214)", "Food Facts and Fads (FDSC 105)", "Honors Calculus and Vector Analysis (MATH 230H)", "Honors Calculus with Analytic Geometry II (MATH 141H)", "Honors Matrices (MATH 220H)", "Introduction to Engineering (ENGR 100)", "Introduction to Systems Programming (CMPSC 311)", "Introductory Sociology (SOC 1)", "Molecular and Cell Biology I (BMB 251H)", "Object Oriented Programming with Web-Based Applications (CMPSC 221)", "Organic Chemistry I (CHEM 210)", "Ordinary Differential Equations (MATH 250)", "Programming and Computation II: Data Structures (CMPSC 132)", "Rhetoric and Civic Life I (CAS 137H)", "Rhetoric and Civic Life II (CAS 138T)"]
+      "courses": [
+        "Circuits and Devices (EE 210)",
+        "Computer Organization and Design (CMPEN 331)",
+        "Digital Design: Theory and Practice (CMPEN 270)",
+        "Discrete Mathematics for Computer Science (CMPSC 360)",
+        "General Physics: Electricity and Magnetism (PHYS 212H)",
+        "General Physics: Mechanics (PHYS 211H)",
+        "General Physics: Wave Motion and Quantum Physics (PHYS 214)",
+        "Food Facts and Fads (FDSC 105)",
+        "Honors Calculus and Vector Analysis (MATH 230H)",
+        "Honors Calculus with Analytic Geometry II (MATH 141H)",
+        "Honors Matrices (MATH 220H)",
+        "Introduction to Engineering (ENGR 100)",
+        "Introduction to Systems Programming (CMPSC 311)",
+        "Introductory Sociology (SOC 1)",
+        "Molecular and Cell Biology I (BMB 251H)",
+        "Object Oriented Programming with Web-Based Applications (CMPSC 221)",
+        "Organic Chemistry I (CHEM 210)",
+        "Ordinary Differential Equations (MATH 250)",
+        "Programming and Computation II: Data Structures (CMPSC 132)",
+        "Rhetoric and Civic Life I (CAS 137H)",
+        "Rhetoric and Civic Life II (CAS 138T)"
+      ]
     },
     {
       "institution": "Methacton High School",
@@ -58,7 +80,18 @@
       "studyType": "High School Diploma",
       "startDate": "2018-09-01",
       "endDate": "2022-06-12",
-      "courses": ["AP Capstone Seminar", "AP English Literature and Composition", "AP English Language and Composition", "AP Human Geography", "AP Calculus AB", "AP Computer Science A", "AP Statistics", "AP Biology", "AP Chemistry", "AP Physics C: Mechanics"]
+      "courses": [
+        "AP Capstone Seminar",
+        "AP English Literature and Composition",
+        "AP English Language and Composition",
+        "AP Human Geography",
+        "AP Calculus AB",
+        "AP Computer Science A",
+        "AP Statistics",
+        "AP Biology",
+        "AP Chemistry",
+        "AP Physics C: Mechanics"
+      ]
     }
   ],
   "awards": [
