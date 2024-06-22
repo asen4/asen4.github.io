@@ -142,16 +142,29 @@
   ],
   "skills": [
     {
-      "name": "Physics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Android SDK",
+        "Android Studio",
+        "C",
+        "Google Firebase",
+        "Firebase Authentication",
+        "Firebase Realtime Database",
+        "Firebase Storage",
+        "Git",
+        "GitHub",
+        "Google Cast SDK",
+        "Java",
+        "JavaScript",
+        "Jitsi Meet SDK",
+        "MongoDB",
+        "Node.js",
+        "Python",
+        "React (Native)",
+        "SQL",
+        "Verilog",
+        "XML"
       ]
     }
   ],
@@ -188,12 +201,57 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "mdadm Library for Linear Devices",
+      "summary": "In Linux, mdadm (Multiple Disk and Device Management) is a utility used to manage software RAID (Redundant Array of Independent Disks) devices, which combines multiple physical disks into a single logical device to increase performance and reliability. Over the course of a few months, I worked on developing a linear device—a Non-RAID configuration that concatenates the disks like a normal RAID configuration but without the performance increase and redundancy.",
+      "highlights": ["C"],
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-01"
+    },
+    {
+      "name": "CPU Design & Implementation",
+      "summary": "Throughout the course of the semester, we were tasked with building and designing a five-stage pipelined CPU. Verilog, a hardware description language, was used to write and program the CPU.",
+      "highlights": ["Verilog"],
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01"
+    },
+    {
+      "name": "Nittany Retails",
+      "summary": "An e-commerce app to trade unused goods and textbooks with students.",
+      "highlights": ["JavaScript", "MongoDB", "Node.js", "React Native"],
+      "startDate": "2023-05-01",
+      "endDate": "2024-06-01"
+    },
+    {
+      "name": "Smart Planner",
+      "summary": "A digital student planner app to organize and keep track of assignments/tasks.",
+      "highlights": ["Android SDK", "Google Firebase", "Java"],
+      "startDate": "2022-02-01",
+      "endDate": "2022-07-01",
+      "url": "https://play.google.com/store/apps/details?id=com.anubhav.assignmentsfeed"
+    },
+    {
+      "name": "TalkZone",
+      "summary": "A video-calling/casting app to cast phone screens to larger television screens instead for a better video-calling experience.",
+      "highlights": ["Android SDK", "Google Cast SDK", "Google Firebase", "Java", "Jitsi Meet SDK"],
+      "startDate": "2021-08-01",
+      "endDate": "2021-10-01",
+      "url": "https://play.google.com/store/apps/details?id=com.anubhav.talkzone2"
+    },
+    {
+      "name": "TagOut!",
+      "summary": "An easy-to-use social media app done for fun!",
+      "highlights": ["Android SDK", "Google Firebase", "Java"],
+      "startDate": "2021-04-01",
+      "endDate": "2021-07-01",
+      "url": "https://play.google.com/store/apps/details?id=com.anubhav.helloapplication"
+    },
+    {
+      "name": "Video Games",
+      "summary": "Back in the good ol' days, I built clones of classical games like Angry Birds, Flappy Bird, Snake, and Tetris using Pygame, an open-source Python package created for developing arcade games.",
+      "highlights": ["Angry Birds", "Flappy Bird", "Snake", "Tetris"],
+      "startDate": "2018-08-01",
+      "endDate": "2019-08-01",
+      "url": "https://github.com/asen4"
     }
   ]
 }
