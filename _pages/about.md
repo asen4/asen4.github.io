@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: An adventurous, curious, and creative fellow that's always ready for the next big challenge!
+subtitle: An adventurous, curious, and creative fellow that's always ready for the next big challenge! 😁
 
 profile:
   align: right
