@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Smart Planner
-description: An all-in-one place to view the deadlines of all your upcoming assignments.
+description: An all-in-one place to view the deadlines of all your upcoming assignments. (July 2022)
 img: assets/img/smart-planner.jpeg
 importance: 7
 category: fun

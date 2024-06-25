@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TalkZone
-description: TalkZone is ultimately designed to create a better video-calling experience.
+description: TalkZone is ultimately designed to create a better video-calling experience. (October 2021)
 img: assets/img/talkzone.png
 importance: 6
 category: fun
@@ -15,7 +15,7 @@ category: fun
 
     <p>That’s exactly one of the features of <i>TalkZone</i>. <i>TalkZone</i> enables you to video call somebody from your own TV for a better video-calling experience. It also contains some of the typical characteristics of a social networking app (e.g. instant-messaging and posting) in a more EASY-TO-USE and SIMPLIFIED setting without a gazillion buttons, unlike Facebook, Twitter, or any other "advanced" social media app.</p>
 
-    <b>Additional charges will apply as necessary for international phone calls, depending on your mobile plan. <i>TalkZone</i> will not be held responsible.</b>
+    <p><b>Additional charges will apply as necessary for international phone calls, depending on your mobile plan. <i>TalkZone</i> will not be held responsible.</b></p>
 
     <p>Get it on the Google Play Store <a href="https://play.google.com/store/apps/details?id=com.anubhav.talkzone2">here</a>!</p>
 
