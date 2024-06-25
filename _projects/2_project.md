@@ -5,7 +5,6 @@ description: Flappy Bird is a mobile game created by Dong Nguyen, where players 
 img: assets/img/flappy-bird.png
 importance: 2
 category: fun
-giscus_comments: true
 ---
 
 **Gameplay**
