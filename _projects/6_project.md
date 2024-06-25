@@ -7,18 +7,57 @@ importance: 6
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<div>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+    <p>Tell me this doesn’t sound familiar to you. You’re in a FaceTime call, Zoom call, Google hangout, WeChat, or Skype on your phone or tablet with someone, let’s say your grandma for example. She tries to show you a picture on her phone or wave a piece of writing in front of you. “It’s hard to see,” you reply. Even though this is a simple example, isn’t it a pain to video call somebody again and again on a small phone or tablet screen? Wouldn’t you prefer to have a nice and decent conversation with them on a larger screen instead like a TV? That way it would make it seem like they're actually in the room with you—like an almost life-size display. And it sure would be easier to see what grandma’s trying to show you.</p>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+    <p>But wait. Can’t I already do that by hooking up a HDMI cable between my laptop and the TV? Yes, you’re right, but think about the extra steps of having to get up and fetch the HDMI cable and then connect the two devices together and then set it up on the TV. A pain, right? What if I told you an app could do this step by simply pressing one button? A lot easier, right?</p>
+
+    <p>That’s exactly one of the features of <i>TalkZone</i>. <i>TalkZone</i> enables you to video call somebody from your own TV for a better video-calling experience. It also contains some of the typical characteristics of a social networking app (e.g. instant-messaging and posting) in a more EASY-TO-USE and SIMPLIFIED setting without a gazillion buttons, unlike Facebook, Twitter, or any other "advanced" social media app.</p>
+
+    <b>Additional charges will apply as necessary for international phone calls, depending on your mobile plan. <i>TalkZone</i> will not be held responsible.</b>
+
+    <p>Get it on the Google Play Store <a href="https://play.google.com/store/apps/details?id=com.anubhav.talkzone2">here</a>!</p>
+
+    <p>See a gallery of screenshots from the app below!</p>
+
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/talkzone/1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/talkzone/2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/talkzone/3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/talkzone/4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/talkzone/5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/talkzone/6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/talkzone/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/talkzone/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
