@@ -13,11 +13,15 @@ category: fun
 
     <p><b>Gameplay</b></p>
 
+    <hr>
+
     <p>In <i>Snake</i>, the player controls a line, or "snake," that moves around a screen, collecting items (often depicted as food) to grow longer. The objective is to consume as many items as possible without running into the snake's own body or the edges of the screen. The game continues until the snake crashes into itself or a boundary, ending the session.</p>
 
     <ul>
         <li><b>Controls:</b> Typically, the snake is controlled using arrow keys on a keyboard, a joystick, or touch controls on a mobile device. The snake moves in a continuous direction until the player changes its course by pressing the corresponding control.</li>
         <li><b>Growth and Score:</b> Each item the snake consumes causes it to grow longer, which increases the game's difficulty as avoiding collisions becomes more challenging. The player's score increases with each item consumed, rewarding skillful navigation and planning.</li>
     </ul>
+
+    <p>See the source code <a href="https://github.com/asen4/Snake">here</a> available on GitHub!</p>
 
 </div>

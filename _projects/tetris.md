@@ -7,74 +7,61 @@ importance: 4
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<div>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+    <p><b>Gameplay</b></p>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+    <hr>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+    <p>The core gameplay of <i>Tetris</i> involves arranging falling blocks, called Tetriminos, to form complete horizontal lines on the playfield. Each Tetrimino is composed of four squares arranged in different shapes (I, O, T, S, Z, J, and L).</p>
+
+    <ul>
+        <li><b>Controls:</b> Players can move Tetriminos left or right, rotate them clockwise or counterclockwise, and speed up their descent. The objective is to fit these shapes together in such a way that they form complete lines, which then disappear, leaving more space on the playfield.</li>
+        <li><b>Scoring:</b> Points are awarded for completing lines. Completing multiple lines at once earns higher scores, with a Tetris (clearing four lines simultaneously) being the highest single-move score.</li>
+        <li><b>Levels and Speed:</b> As the game progresses, the speed at which the Tetriminos fall increases, making the game more challenging. Players advance to higher levels by clearing a set number of lines.</li>
+    </ul>
+
+    <p><b>Modes</b></p>
+
+    <hr>
+
+    <p><i>Tetris</i> has been adapted into numerous versions, each offering various modes and features:</p>
+
+    <ul>
+        <li><b>Classic Mode:</b> The original mode where players aim for the highest score.</li>
+        <li><b>Marathon Mode:</b> Players play through a set number of levels, aiming to complete them all.</li>
+        <li><b>Sprint Mode:</b> Players race to clear a certain number of lines as quickly as possible.</li>
+        <li><b>Battle Mode:</b> Players compete against each other, either directly by sending "garbage" lines to opponents' playfields or indirectly by racing to achieve the highest score or fastest completion.</li>
+    </ul>
+
+    <p><b>Graphics and Sound</b></p>
+
+    <hr>
+
+    <p>The graphics of <i>Tetris</i> are typically straightforward, focusing on clear, distinguishable shapes for the Tetriminos and a simple playfield. The game's visual style has evolved over time, from monochrome displays on early computers and handheld devices to vibrant, colorful graphics on modern platforms.</p>
+
+    <p>The game's sound design is iconic, featuring memorable music and sound effects. The most famous <i>Tetris</i> theme is "Korobeiniki," a Russian folk song adapted for the game. Various versions of Tetris have included different musical tracks and sound effects, but they generally maintain the game's distinctive audio identity.</p>
+
+    <p><b>Cultural Impact</b></p>
+
+    <hr>
+
+    <p><i>Tetris</i> has had a profound cultural impact and is recognized as one of the greatest video games of all time:</p>
+
+    <ul>
+        <li><b>Addictive Gameplay:</b> The game's simple yet challenging mechanics have made it highly addictive and accessible to players of all ages.</li>
+        <li><b>Tetris Effect:</b> The game is so engaging that many players report experiencing the "Tetris effect," where they visualize falling Tetriminos even when not playing.</li>
+        <li><b>Influence on Gaming:</b> <i>Tetris</i> set a standard for puzzle games and has inspired countless other games and genres.</li>
+        <li><b>Awards and Recognition:</b> <i>Tetris</i> has won numerous awards and accolades over the years and has been inducted into various video game halls of fame.</li>
+
+    <p><b>Legacy</b></p>
+
+    <hr>
+
+    <p><i>Tetris</i> continues to be a beloved and influential game, with new versions and adaptations released regularly. Its enduring popularity is a testament to its timeless design and universal appeal.</p>
+
+    <p>In summary, <i>Tetris</i> is a classic puzzle game known for its simple yet deep gameplay, iconic music, and lasting influence on the video game industry. Its ability to captivate players across generations and platforms has solidified its place as one of the most important and beloved games in history.</p>
+
+    <p>See the source code <a href="https://github.com/asen4/Tetris">here</a> available on GitHub!</p>
+
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

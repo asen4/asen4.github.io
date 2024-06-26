@@ -51,6 +51,8 @@ category: fun
 
     <p>In summary, <i>Angry Birds</i> combines simple, addictive gameplay with strategic depth and charming visuals, making it a beloved classic in the world of mobile gaming.</p>
 
+    <p>See the source code <a href="https://github.com/asen4/Angry-Birds">here</a> available on GitHub!</p>
+
 </div>
 
 <div class="row">

@@ -15,6 +15,8 @@ category: fun
 
     <p>Get it on the Google Play Store <a href="https://play.google.com/store/apps/details?id=com.anubhav.assignmentsfeed">here</a>!</p>
 
+    <p>See the source code <a href="https://github.com/asen4/SmartPlanner">here</a> available on GitHub!</p>
+
     <p>See a gallery of screenshots from the app below!</p>
 
 </div>

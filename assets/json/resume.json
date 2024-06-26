@@ -75,7 +75,7 @@
     },
     {
       "institution": "Methacton High School",
-      "location": "Eagleville PA",
+      "location": "Eagleville, PA",
       "url": "https://www.methacton.org/Domain/8",
       "studyType": "High School Diploma",
       "startDate": "2018-09-01",
@@ -246,8 +246,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.anubhav.helloapplication"
     },
     {
-      "name": "Video Games",
-      "summary": "Back in the good ol' days, I built clones of classical games like Angry Birds, Flappy Bird, Snake, and Tetris using Pygame, an open-source Python package created for developing arcade games.",
+      "name": "Classical Arcade Games",
+      "summary": "Back in the good ol' days, I built clones of classical video games like Angry Birds, Flappy Bird, Snake, and Tetris using Pygame, an open-source Python package created for developing arcade games.",
       "highlights": ["Angry Birds", "Flappy Bird", "Snake", "Tetris"],
       "startDate": "2018-08-01",
       "endDate": "2019-08-01",
