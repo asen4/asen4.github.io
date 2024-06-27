@@ -27,10 +27,6 @@ thumbnail: assets/img/java-a-comprehensive-guide-part-i.jpg
 
     <p>After seeing my work publicly available on Amazon, my friends jokingly commented, “<b>750 pages! Did you write one of those textbooks? I think you went a little overboard in creating your so-called comprehensive guide</b>.”</p>
 
-    <p>If you were interested, see [this link] for more information about <i>Java: A Comprehensive Guide</i>.</p>
-
-    [this link]: https://sites.google.com/view/anubhav-sen/software-development-projects/talkzone?authuser=0
-
 </div>
 
 <div class="row mt-3">
