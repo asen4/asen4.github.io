@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Global Data Operations Intern @ Merck | Computer Engineering Major
+subtitle: ✨✨✨ Global Data Operations Intern @ Merck | Computer Engineering Major ✨✨✨
 
 profile:
   align: right
