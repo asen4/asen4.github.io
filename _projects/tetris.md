@@ -53,6 +53,7 @@ category: fun
         <li><b>Tetris Effect:</b> The game is so engaging that many players report experiencing the "Tetris effect," where they visualize falling Tetriminos even when not playing.</li>
         <li><b>Influence on Gaming:</b> <i>Tetris</i> set a standard for puzzle games and has inspired countless other games and genres.</li>
         <li><b>Awards and Recognition:</b> <i>Tetris</i> has won numerous awards and accolades over the years and has been inducted into various video game halls of fame.</li>
+    </ul>
 
     <p><b>Legacy</b></p>
 
