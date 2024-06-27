@@ -27,6 +27,8 @@ thumbnail: assets/img/java-a-comprehensive-guide-part-i.jpg
 
     <p>After seeing my work publicly available on Amazon, my friends jokingly commented, “<b>750 pages! Did you write one of those textbooks? I think you went a little overboard in creating your so-called comprehensive guide</b>.”</p>
 
+    <p>If you were interested, see <a href="https://www.amazon.com/gp/product/B0B9ZB8Z17/ref=dbs_a_def_rwt_bibl_vppi_i1">this link</a> for more information about <i>Java: A Comprehensive Guide</i>.</p>
+
 </div>
 
 <div class="row mt-3">
