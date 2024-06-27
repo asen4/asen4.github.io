@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Politics Makes Us Depressed? Reflection
+title: “Why Politics Makes Us Depressed?” Reflection
 date: 2023-04-21 0:00:00
 tags: podcast why-politics-makes-us-depressed
 categories: civic-issues
