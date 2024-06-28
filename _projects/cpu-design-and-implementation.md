@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CPU Design & Implementation
+title: CPU Design & Implementation (May 2024)
 description: Throughout the course of the semester, we were tasked with building and designing a five-stage pipelined CPU. Verilog, a hardware description language, was used to write and program the CPU. In the first three labs, we mainly focused on implementing the five separate stages of the CPU pipelining process-instruction fetch (IF), instruction decode (ID), execution (EX), memory access (MEM), and writeback (WB). In the final project, we updated the instructions from load word instructions to r-type instructions and made some modifications to the Control Unit so that it could generate the appropriate signals to handle stalls and forwarding to avoid any data hazards and optimize executions as much as possible.
 img: assets/img/cpu.png
 importance: 10
@@ -26,5 +26,5 @@ category: work
     </div>
 </div>
 <div class="caption">
-    On the left, a basic 5-stage CPU pipelining diagram. Right, a much more detailed 5-stage CPU pipelining diagram with branching and jumping abilities.
+    On the left, a basic 5-stage CPU pipelining diagram. Right, a much more detailed 5-stage CPU pipelining schematic with branching and jumping capabilities.
 </div>

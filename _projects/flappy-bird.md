@@ -39,6 +39,6 @@ category: fun
 
     <p>In summary, <i>Flappy Bird</i> is a minimalist mobile game known for its simple controls, challenging gameplay, and significant cultural impact. Its rise and fall from app stores are memorable chapters in the history of mobile gaming.</p>
 
-    <p>See the source code <a href="https://github.com/asen4/Flappy-Bird-2.0">here</a> available on GitHub!</p>
+    <p>📜 SOURCE CODE: See the source code <a href="https://github.com/asen4/Flappy-Bird-2.0">here</a> available on GitHub!</p>
 
 </div>

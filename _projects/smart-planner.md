@@ -13,11 +13,13 @@ category: fun
 
     <p>Unless you’re like a few select people who can memorize the due dates and keep track of everything in your head, then I have news for you. Get Smart Planner! This is an app that enables you to stay organized and seamlessly keep track of all your upcoming assignments. Instead of having to write assignment deadlines on the homework board everyday, professors have the ability to create assignment reminders in the app in just 1-2 minutes. Students can look at these reminders whenever they wish throughout the day. Any user can also give comments and ratings to other users, regardless of whether they’re professors or students. Know how others feel about you! Say goodbye to outdated paper daily planners, and say hello to <i>Smart Planner</i>! Happy planning — and studying!</p>
 
-    <p>Get it on the Google Play Store <a href="https://play.google.com/store/apps/details?id=com.anubhav.assignmentsfeed">here</a>!</p>
+    <p><i>P.S.</i> I am certainly not an official conservationist, but I do know that billions of trees are wasted in producing paper weekly planners. So why join those foul "tree killers?" Get the digital version: <i>Smart Planner</i>.</p>
 
-    <p>See the source code <a href="https://github.com/asen4/SmartPlanner">here</a> available on GitHub!</p>
+    <p>⬇️ DOWNLOAD NOW: Get it on the Google Play Store <a href="https://play.google.com/store/apps/details?id=com.anubhav.assignmentsfeed">here</a>!</p>
 
-    <p>See a gallery of screenshots from the app below!</p>
+    <p>📜 SOURCE CODE: See the source code <a href="https://github.com/asen4/SmartPlanner">here</a> available on GitHub!</p>
+
+    <p>🖼️ See a gallery of screenshots from the app below!</p>
 
 </div>
 
@@ -39,6 +41,13 @@ category: fun
     </div>
 </div>
 
+<div class="caption">
+    <p>HOME SCREEN: In the home screen, you can view assignment reminders and add professors you wish to see in your calendar by clicking the vertical options menu in the top right-hand corner. Scroll through the calendar at the top of the page to stay organized and keep track of due dates of assignments in advance.</p>
+
+    <p>ASSIGNMENT DETAILS SCREEN: Once you click on an assignment reminder in the home screen, the assignment details screen pops up. In this screen, you can view various details regarding an assignment posted by a professor, including the description, due date, due time, posted date, and posted time.</p>
+
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/smart-planner/5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -46,6 +55,10 @@ category: fun
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/smart-planner/6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+
+<div class="caption">
+    <p>PERSON PROFILE SCREEN: In the person profile screen (right-hand image), you can view various attributes regarding a user, such as their email address, profile status, and their average rating. You also have the option to rate any user how ever you wish and add additional comments or images to show how you feel about them. Please be aware that comments cannot be deleted once posted.</p>
 </div>
 
 <div class="row">
@@ -56,48 +69,3 @@ category: fun
         {% include figure.liquid loading="eager" path="assets/img/smart-planner/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

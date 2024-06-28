@@ -1,7 +1,7 @@
 ---
 layout: page
 title: mdadm Linear Device
-description: mdadm Library for Linear Devices
+description: mdadm Library for Linear Devices (December 2023)
 img: assets/img/linux.png
 importance: 9
 category: work

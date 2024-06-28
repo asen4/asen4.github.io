@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nittany Retails
-description: A retail app for students to buy and sell goods that they don't need anymore. (pending work)
+description: A retail app for students to buy and sell goods that they don't need anymore. (pending progress)
 img: assets/img/nittany-retails.png
 importance: 8
 category: fun

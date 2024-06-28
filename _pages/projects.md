@@ -11,7 +11,7 @@ horizontal: false
 
 <div>
 
-  <p>Please know that the source codes for all these projects are available <a href="https://github.com/asen4">here on GitHub</a>.</p>
+  <p>Please know that the source codes for all of these projects are available <a href="https://github.com/asen4">here on GitHub</a>.</p>
 
 </div>
 

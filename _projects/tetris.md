@@ -63,6 +63,6 @@ category: fun
 
     <p>In summary, <i>Tetris</i> is a classic puzzle game known for its simple yet deep gameplay, iconic music, and lasting influence on the video game industry. Its ability to captivate players across generations and platforms has solidified its place as one of the most important and beloved games in history.</p>
 
-    <p>See the source code <a href="https://github.com/asen4/Tetris">here</a> available on GitHub!</p>
+    <p>📜 SOURCE CODE: See the source code <a href="https://github.com/asen4/Tetris">here</a> available on GitHub!</p>
 
 </div>

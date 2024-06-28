@@ -15,13 +15,17 @@ category: fun
 
     <p>That’s exactly one of the features of <i>TalkZone</i>. <i>TalkZone</i> enables you to video call somebody from your own TV for a better video-calling experience. It also contains some of the typical characteristics of a social networking app (e.g. instant-messaging and posting) in a more EASY-TO-USE and SIMPLIFIED setting without a gazillion buttons, unlike Facebook, Twitter, or any other "advanced" social media app.</p>
 
+    <p>As a fun fact, I was inspired to create the app after watching my mother and grandmother video call each on a regular basis. After seeing them have difficulties carrying a phone or tablet everywhere, I decided to work on developing an Android app to enable them to cast their screens to a larger TV screen instead. I ultimately hope that people who face similar difficulties will see this app as a solution.</p>
+
     <p><b>Additional charges will apply as necessary for international phone calls, depending on your mobile plan. <i>TalkZone</i> will not be held responsible.</b></p>
 
-    <p>Get it on the Google Play Store <a href="https://play.google.com/store/apps/details?id=com.anubhav.talkzone2">here</a>!</p>
+    <p>⬇️ DOWNLOAD NOW: Get it on the Google Play Store <a href="https://play.google.com/store/apps/details?id=com.anubhav.talkzone2">here</a>!</p>
 
-    <p>See the source code <a href="https://github.com/asen4/TalkZone-2.0">here</a> available on GitHub!</p>
+    <p>📜 SOURCE CODE: See the source code <a href="https://github.com/asen4/TalkZone-2.0">here</a> available on GitHub!</p>
 
-    <p>See a gallery of screenshots from the app below!</p>
+    <p>📹 DEMO VIDEO: See a brief demonstration video <a href="https://www.youtube.com/watch?v=pql-VRrGIGY">here</a> available on YouTube!</p>
+
+    <p>🖼️ See a gallery of screenshots from the app below!</p>
 
 </div>
 
@@ -34,6 +38,10 @@ category: fun
     </div>
 </div>
 
+<div class="caption">
+    <p>HOME SCREEN: In the home screen (left-hand image), you can publish your own posts to other users on the app. If you feel something is worth everybody knowing (e.g. a news event, a latest music release, etc.), then this is the place to do so! We ask that you keep humorous posts at a minimum, so the page can be filled with the more "important content."</p>
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/talkzone/3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -41,6 +49,10 @@ category: fun
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/talkzone/4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+
+<div class="caption">
+    <p>MESSAGES SCREEN: In the messages screen (left-hand image), you can message with another user, just like in any other instant-messaging app. In addition to texts, you can share images, PDFs, and documents with others too! You also have the option to delete messages for yourself or for everyone.</p>
 </div>
 
 <div class="row">
@@ -52,6 +64,10 @@ category: fun
     </div>
 </div>
 
+<div class="caption">
+    <p>VIDEO CALL SCREEN: This is where the magic happens! In the video call screen (right-hand image), you can make conference calls to other users by providing a secret code to join the meeting. If you wish to start a conference call on your TV, then click the cast icon button on the bottom-right hand of the screen to cast your mobile screen to the TV. Then, simply provide the secret code and join the meeting. That's it—it's that easy!</p>
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/talkzone/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -60,62 +76,3 @@ category: fun
         {% include figure.liquid loading="eager" path="assets/img/talkzone/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
