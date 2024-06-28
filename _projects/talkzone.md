@@ -25,7 +25,7 @@ category: fun
 
     <p>📹 DEMO VIDEO: See a brief demonstration video <a href="https://www.youtube.com/watch?v=pql-VRrGIGY">here</a> available on YouTube!</p>
 
-    <p>📁 FLYER: See a promotional flyer <a href="https://drive.google.com/file/d/1zSZdNBqHgHS7B71ASLpS2kgVGeMppz61/view">here</a>!
+    <p>📁 FLYER: See a promotional flyer <a href="https://drive.google.com/file/d/1zSZdNBqHgHS7B71ASLpS2kgVGeMppz61/view">here</a>!</p>
 
     <p>🖼️ See a gallery of screenshots from the app below!</p>
 

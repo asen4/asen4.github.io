@@ -31,7 +31,7 @@ category: fun
 
     <p>The game's story revolves around a group of birds whose eggs have been stolen by green pigs. The pigs hide in various structures, prompting the birds to seek revenge. This simple storyline adds a humorous and lighthearted context to the gameplay.</p>
 
-    <p><b>Levels and Progression</b><p>
+    <p><b>Levels and Progression</b></p>
 
     <hr>
 

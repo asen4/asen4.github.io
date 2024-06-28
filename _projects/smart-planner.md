@@ -19,7 +19,7 @@ category: fun
 
     <p>📜 SOURCE CODE: See the source code <a href="https://github.com/asen4/SmartPlanner">here</a> available on GitHub!</p>
 
-    <p>📁 FLYER: See a promotional flyer <a href="https://drive.google.com/file/d/1BcEaXn-nRP2qa8pPrxQ1OPGpb74b-1xp/view">here</a>!
+    <p>📁 FLYER: See a promotional flyer <a href="https://drive.google.com/file/d/1BcEaXn-nRP2qa8pPrxQ1OPGpb74b-1xp/view">here</a>!</p>
 
     <p>🖼️ See a gallery of screenshots from the app below!</p>
 

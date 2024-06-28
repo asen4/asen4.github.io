@@ -49,7 +49,7 @@ category: fun
     <p>Snake has had a significant impact on the gaming industry and popular culture:</p>
 
     <ul>
-        <li><b>Accessibility:</b> The game's straightforward rules and controls make it accessible to players of all ages and skill levels, contributing to its enduring popularity.</p>
+        <li><b>Accessibility:</b> The game's straightforward rules and controls make it accessible to players of all ages and skill levels, contributing to its enduring popularity.</li>
         <li><b>Legacy:</b> Snake has inspired countless developers and has been referenced in various media and other video games. Its influence is evident in the design of many other simple, addictive games.</li>
         <li><b>Nostalgia:</b> For many people, especially those who owned Nokia phones in the late 1990s and early 2000s, Snake evokes a sense of nostalgia and is remembered as one of the first mobile games they played.</li>
     </ul>
