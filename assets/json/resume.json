@@ -28,7 +28,7 @@
       "url": "https://jobs.merck.com/us/en/global-clinical-trial-operations",
       "startDate": "2024-06-03",
       "endDate": "2024-08-02",
-      "summary": "Global Data Management & Standards (GDMS), Global Data Operations (GDO): Support strategic and operational projects related to process, medical coding, technologies, and data analysis in clinical data management. Working alongside experienced members of the team, the successful candidate will assist with special projects, analyze and evaluate processes, and propose innovative resolutions."
+      "summary": "Developed a dashboard to centralize data management automation tools for use by the rest of data managers. Simplified the execution of Python automation scripts with a button click, garnering strong support from users possessing little to no programming experience and effectively eliminating any learning gaps. Incorporated Dash framework and collaborated with IT department to get AWS server access for deployment."
     },
 
     {
@@ -52,17 +52,22 @@
       "courses": [
         "Circuits and Devices (EE 210)",
         "Computer Organization and Design (CMPEN 331)",
+        "Data Structures and Algorithms (CMPSC 465)",
         "Digital Design: Theory and Practice (CMPEN 270)",
         "Discrete Mathematics for Computer Science (CMPSC 360)",
+        "Electronic Circuit Design I (EE 310)",
         "General Physics: Electricity and Magnetism (PHYS 212H)",
         "General Physics: Mechanics (PHYS 211H)",
         "General Physics: Wave Motion and Quantum Physics (PHYS 214)",
         "Food Facts and Fads (FDSC 105)",
+        "Fundamentals of Computer Vision (CMPEN/EE 454)",
         "Honors Calculus and Vector Analysis (MATH 230H)",
         "Honors Calculus with Analytic Geometry II (MATH 141H)",
         "Honors Matrices (MATH 220H)",
         "Introduction to Engineering (ENGR 100)",
+        "Introduction to Probability and Stochastic Processes for Engineering (MATH/STAT 418)",
         "Introduction to Systems Programming (CMPSC 311)",
+        "Introductory Macroeconomic Analysis and Policy (ECON 104)",
         "Introductory Sociology (SOC 1)",
         "Molecular and Cell Biology I (BMB 251H)",
         "Object Oriented Programming with Web-Based Applications (CMPSC 221)",
