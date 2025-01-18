@@ -51,7 +51,7 @@
       "endDate": "2026-05-01",
       "courses": [
         "EE 210: Circuits and Devices",
-        "CMPEN 362: Communication Networks",
+        "CMPEN/EE 362: Communication Networks",
         "CMPEN 331: Computer Organization and Design",
         "CMPSC 465: Data Structures and Algorithms",
         "CMPEN 270: Digital Design: Theory and Practice",
