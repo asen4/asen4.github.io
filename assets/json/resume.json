@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Anubhav Sen",
-    "label": "Global Data Operations Intern @ Merck | Computer Engineering Major",
+    "label": "Global Data Operations Intern @ Merck | Computer Engineering @ Penn State",
     "image": "",
-    "email": "asencollege4@gmail.com",
+    "email": "anubhav.4.sen@gmail.com",
     "url": "https://asen4.github.io",
     "summary": "An adventurous, curious, and creative fellow that's always ready for the next big challenge! 😁",
     "location": {
@@ -28,16 +28,16 @@
       "url": "https://jobs.merck.com/us/en/global-clinical-trial-operations",
       "startDate": "2024-06-03",
       "endDate": "2024-08-02",
-      "summary": "Developed a dashboard to centralize data management automation tools for use by the rest of data managers. Simplified the execution of Python automation scripts with a button click, garnering strong support from users possessing little to no programming experience and effectively eliminating any learning gaps. Incorporated Dash framework and collaborated with IT department to get AWS server access for deployment."
+      "summary": "- Developed a streamlined, user-friendly dashboard to centralize clinical data automation tools, significantly improving accessibility and usability while reducing workflow time by 30% for over 500 users globally.\n- Designed an interface to make running these scripts/tools as simple as a button click, garnering strong support from users possessing little to no programming experience and effectively eliminating any learning gaps.\n- Incorporated Dash framework and collaborated with IT department to get AWS server access for deployment."
     },
 
     {
       "name": "The Pennsylvania State University",
-      "position": "Part Time — Student — Computer Science Grader & Learning Assistant for CMPSC 132",
-      "url": "https://www.eecs.psu.edu/",
+      "position": "Part Time — Student — Computer Science Grader & Learning Assistant (LA)",
+      "url": "https://www.eecs.psu.edu",
       "startDate": "2023-01-01",
-      "endDate": "2024-05-01",
-      "summary": "Assisted my former computer science instructor in mentoring a class of 400+ students in a beginner's level data structures class (CMPSC 132). Administered and proctored exams to create a fair, secure testing environment for all students. Graded students' homework assignments, labs, and exams, providing helpful feedback on areas to improve. Faciliated two recitations of 50+ students and held 6 hours of office hours on a weekly basis to clarify concepts and help struggling students achieve mastery of the material."
+      "endDate": "2025-08-15",
+      "summary": "- Assisted my former computer science instructor in mentoring a class of 300+ students in a data structures and algorithms class.\n- Coached students by facilitating 2 recitations (100+ students) and holding 6 hours of tutoring on weekly basis.\n- Administered and proctoring exams to create a fair, secure testing environment for all students.\n- Graded students’ homework assignments, labs, and exams while providing helpful feedback on areas to improve."
     }
   ],
   "education": [
@@ -85,7 +85,7 @@
         "CAS 137H: Rhetoric and Civic Life I",
         "CAS 138T: Rhetoric and Civic Life II",
         "EE 353: Signals and Systems: Continuous and Discrete-Time",
-        "THEA 100: The Art of the Theatre Honors"
+        "THEA 100: Honors The Art of the Theatre"
       ]
     },
     {
