@@ -51,7 +51,8 @@
       "endDate": "2026-05-01",
       "courses": [
         "EE 210: Circuits and Devices",
-        "CMPEN/EE 362: Communication Networks",
+        "CMPEN/EE 362: Honors Communication Networks",
+        "CMPEN 482W: Computer Engineering Project Design",
         "CMPEN 331: Computer Organization and Design",
         "CMPSC 465: Data Structures and Algorithms",
         "CMPEN 270: Digital Design: Theory and Practice",
@@ -62,16 +63,19 @@
         "PHYS 211H: General Physics: Mechanics",
         "PHYS 214: General Physics: Wave Motion and Quantum Physics",
         "FDSC 105: Food Facts and Fads",
-        "CMPEN/EE 454: Fundamentals of Computer Vision",
+        "CMPEN/EE 454: Honors Fundamentals of Computer Vision",
         "MATH 230H: Honors Calculus and Vector Analysis",
         "MATH 141H: Honors Calculus with Analytic Geometry II",
         "MATH 220H: Honors Matrices",
         "ENGR 100: Introduction to Engineering",
+        "EE 456: Introduction to Neural Networks",
         "MATH/STAT 418: Introduction to Probability and Stochastic Processes for Engineering",
         "CMPSC 311: Introduction to Systems Programming",
+        "CMPSC 466: Introduction to Quantum Computation",
         "ECON 104: Introductory Macroeconomic Analysis and Policy",
         "SOC 1: Introductory Sociology",
         "BMB 251H: Molecular and Cell Biology I",
+        "CAMS 44H: Honors Myth in Egypt and the Near East",
         "CMPSC 221: Object Oriented Programming with Web-Based Applications",
         "CMPSC 473: Operating Systems Design & Construction",
         "CHEM 210: Organic Chemistry I",
@@ -80,7 +84,8 @@
         "ARTH 202N: Renaissance to Modern Architecture",
         "CAS 137H: Rhetoric and Civic Life I",
         "CAS 138T: Rhetoric and Civic Life II",
-        "EE 353: Signals and Systems: Continuous and Discrete-Time"
+        "EE 353: Signals and Systems: Continuous and Discrete-Time",
+        "THEA 100: The Art of the Theatre Honors"
       ]
     },
     {
