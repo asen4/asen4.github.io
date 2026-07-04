@@ -24,11 +24,11 @@
   "work": [
     {
       "name": "Merck Sharp & Dohme",
-      "position": "2024 Global Data Operations Summer Intern",
+      "position": "Global Data Operations Summer Intern",
       "url": "https://jobs.merck.com/us/en/global-clinical-trial-operations",
       "startDate": "2024-06-03",
       "endDate": "2024-08-02",
-      "summary": "Developed a streamlined, user-friendly dashboard to centralize clinical data automation tools, significantly improving accessibility and usability while reducing workflow time by 30% for over 500 users globally. Designed an interface to make running these scripts/tools as simple as a button click, garnering strong support from users possessing little to no programming experience and effectively eliminating any learning gaps. Incorporated Dash framework and collaborated with IT department to get AWS server access for deployment."
+      "summary": "Developed a streamlined, user-friendly dashboard to centralize clinical data automation tools, significantly improving accessibility and usability while reducing time spent on manual tasks by 30% for over 500 users globally. Designed an interface to make running these scripts/tools as simple as a button click, garnering strong support from users possessing little to no programming experience and effectively eliminating any learning gaps. Incorporated Dash framework and collaborated with IT department to get AWS server access for deployment."
     },
 
     {
@@ -46,10 +46,11 @@
       "location": "State College, PA",
       "url": "https://www.psu.edu",
       "area": "Computer Engineering",
-      "studyType": "Bachelors of Engineering (BE)",
-      "startDate": "2022-08-01",
-      "endDate": "2026-05-01",
+      "studyType": "Bachelors of Science (B.S.)",
+      "startDate": "2022-08-22",
+      "endDate": "2026-05-08",
       "courses": [
+        "CMPSC/DS 442: Artificial Intelligence",
         "EE 210: Circuits and Devices",
         "CMPEN/EE 362: Honors Communication Networks",
         "CMPEN 482W: Computer Engineering Project Design",
@@ -67,6 +68,7 @@
         "MATH 230H: Honors Calculus and Vector Analysis",
         "MATH 141H: Honors Calculus with Analytic Geometry II",
         "MATH 220H: Honors Matrices",
+        "CMPEN 431: Introduction to Computer Architecture",
         "ENGR 100: Introduction to Engineering",
         "EE 456: Introduction to Neural Networks",
         "MATH/STAT 418: Introduction to Probability and Stochastic Processes for Engineering",
@@ -81,9 +83,11 @@
         "CHEM 210: Organic Chemistry I",
         "MATH 250: Ordinary Differential Equations",
         "CMPSC 132: Programming and Computation II: Data Structures",
+        "PSYCH 100: Introductory Psychology",
         "ARTH 202N: Renaissance to Modern Architecture",
         "CAS 137H: Rhetoric and Civic Life I",
         "CAS 138T: Rhetoric and Civic Life II",
+        "CMPSC 494H: Senior Honors Thesis",
         "EE 353: Signals and Systems: Continuous and Discrete-Time",
         "THEA 100: Honors The Art of the Theatre"
       ]
@@ -193,6 +197,11 @@
     {
       "language": "Bengali",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate Proficiency",
       "icon": ""
     },
     {
